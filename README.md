@@ -1,5 +1,11 @@
 # Seizure Diary
 
+Verdict: I lost the will to live after 'Step 1': GPT-6 Astra is 'too smart'; it overcomplicated this project by adding in too much complexity early on. Work was too slow, and used too much usage quota.
+
+Use a smaller LLM instead!
+
+---
+
 A mobile-first, fictional-data prototype for discussing a home EEG event diary.
 
 **Prototype only: do not use with real patient data!**
