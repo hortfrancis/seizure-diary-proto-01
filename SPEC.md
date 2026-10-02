@@ -1,6 +1,6 @@
 # Seizure Diary — rapid prototype specification
 
-Status: draft for discussion; implementation has not started.  
+Status: step 1 implemented locally; ready for review before step 2.
 Date: 2 October 2026.  
 Origin: an NHS hackathon team concept, now being developed into a demonstrable prototype for clinician feedback.
 
@@ -39,7 +39,7 @@ This document distinguishes the requested direction from proposed defaults. Defa
 | Clinician access | Clinician tries the patient flow and its diary on their own device |
 | Hosting | One Cloudflare Worker serving frontend assets and same-origin API; D1 stores demo events |
 | Data policy | Confirmed: fictional examples only; no actual patients will use this prototype and no real patient information may be entered |
-| Current authorised deliverable | This specification only; no commit, repository publication, or deployment in this step |
+| Current authorised deliverable | Step 1: local manual diary UI; stop for review before step 2. The owner decides when to commit; use Conventional Commits |
 
 ### Intended scope across the prototype increments
 
